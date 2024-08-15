@@ -1,0 +1,39 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Name {
+    text-align: center;
+    font-size: 75px;
+    margin-bottom: 0.25%;
+    margin-top: 2%;
+}
+
+#Occupation {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 0%;
+}
+
+#Additional_Links {
+    text-align: center;
+}
+
+#Coding_Projects {
+    text-align: center;
+    font-size: 30px;
+}
+
+td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
